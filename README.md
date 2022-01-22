@@ -1,4 +1,9 @@
-### Hi there 👋
+ Hi, I'm Collyn! 👋
+
+  I'm a student at BloomTech (FKA Lambda). 
+
+  I love everything tech and I have a passion for creating so here I am making websites. With BloomTech coming to an end soon, I cannot wait to finally get my foot in the field. 
+
 
 <!--
 **Collyngodlewski/collyngodlewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
