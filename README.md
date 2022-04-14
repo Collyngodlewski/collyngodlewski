@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **collyngodlewski@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CnsukPFP0N09LV5mHJKZ85pkPFjH7dJKgh7l1Jd7oLQ/edit?usp=sharing](https://docs.google.com/document/d/1CnsukPFP0N09LV5mHJKZ85pkPFjH7dJKgh7l1Jd7oLQ/edit?usp=sharing)
-
 - ⚡ Fun fact **I have a beautiful Siberian cat named Boots!**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1CnsukPFP0N09LV5mHJKZ85pkPFjH7dJKgh7l1Jd7oLQ/edit?usp=sharing](https://docs.google.com/document/d/1CnsukPFP0N09LV5mHJKZ85pkPFjH7dJKgh7l1Jd7oLQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
