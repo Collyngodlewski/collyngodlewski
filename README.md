@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Collyn Godlewski</h1>
-<h3 align="center">A passionate frontend developer from Michigan</h3>
+<h3 align="center">A passionate Frontend developer from Michigan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collyngodlewski&label=Profile%20views&color=0e75b6&style=flat" alt="collyngodlewski" /> </p>
 
-- 🌱 I’m currently learning **Wordpress**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently an intern at **Queeery**
 
 - 📫 How to reach me **collyngodlewski@gmail.com**
 
