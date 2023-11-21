@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collyngodlewski&label=Profile%20views&color=0e75b6&style=flat" alt="collyngodlewski" /> </p>
 
-- 🌱 I’m currently an intern at **Queeery**
+- 🌱 I’m a Frontend Developer at **Artisan Digital Media**
 
 - 📫 How to reach me **collyngodlewski@gmail.com**
 
